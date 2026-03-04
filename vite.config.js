@@ -9,10 +9,10 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["favicon.ico", "apple-touch-icon.png", "mask-icon.svg"],
       manifest: {
-        name: "Room Share Expense Manager",
-        short_name: "RoomExpense",
+        name: "Retro Team Expense Tracker",
+        short_name: "RetroExpense",
         description: "Track shared room expenses like food and utensils.",
-        theme_color: "#0a0a0a",
+        theme_color: "#0a0a0a", 
         background_color: "#ffffff",
         display: "standalone",
         start_url: "/",
