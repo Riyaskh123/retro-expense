@@ -227,7 +227,7 @@ export default function ExpenseForm({ members, onSave, initialData }) {
         <textarea
           value={note}
           onChange={(e) => setNote(e.target.value)}
-          className="mt-1 w-full rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 px-3 py-2"
+          className="mt-1 w-full rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 dark:text-white px-3 py-2"
           rows={3}
           placeholder="e.g., Included cleaning items"
         />

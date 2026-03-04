@@ -238,7 +238,7 @@ export default function App() {
               </div>
             </div>
 
-            {/* <div className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 p-4">
+            <div className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 p-4">
               <h2 className="font-semibold text-zinc-900 dark:text-zinc-100">Settle Up (Suggested)</h2>
               <div className="mt-3 space-y-2">
                 {!settlements.length ? (
@@ -253,7 +253,7 @@ export default function App() {
                   ))
                 )}
               </div>
-            </div> */}
+            </div>
 
             {/* <div className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 p-4">
               <h2 className="font-semibold text-zinc-900 dark:text-zinc-100">Tips</h2>
